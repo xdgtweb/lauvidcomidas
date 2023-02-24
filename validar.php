@@ -1,5 +1,6 @@
 <html>
     <head>
+        <html lang="es">
         <style>
             table
             {
